@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MRS Studio ✦
 
 > A Pinterest-style luxury product showcase website with admin management.
@@ -226,3 +227,21 @@ Collection: `products`
 ## License
 
 MIT — Free to use and modify.
+=======
+## Hi there 👋
+
+<!--
+**MRS-Studio/mrs-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 52718c68320f4a2c780fe74858327ade7e24ef94
